@@ -16,8 +16,11 @@
     "url": "https://github.com/TeoBenAndre/TEO_MIDTERM_ACTIVITY/issues"
   },
   "homepage": "https://github.com/TeoBenAndre/TEO_MIDTERM_ACTIVITY#readme",
-  "description": "",
   "dependencies": {
-    "express": "^4.21.2"
-  }
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mysql2": "^3.13.0",
+    "sequelize": "^6.37.6"
+  },
+  "description": ""
 }
