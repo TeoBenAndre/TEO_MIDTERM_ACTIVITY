@@ -1,0 +1,23 @@
+{
+  "name": "git-basic.txt-teo-ben-andre",
+  "version": "1.0.0",
+  "main": "question1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TeoBenAndre/TEO_MIDTERM_ACTIVITY.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TeoBenAndre/TEO_MIDTERM_ACTIVITY/issues"
+  },
+  "homepage": "https://github.com/TeoBenAndre/TEO_MIDTERM_ACTIVITY#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
